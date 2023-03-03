@@ -1,0 +1,2 @@
+0 unbreakable
+1 breakable
